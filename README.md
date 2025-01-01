@@ -17,7 +17,7 @@ pip install numpy==1.26
 
 ## Datasets: MNIST
 
-Download MNIST datasets from [here](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+Download MNIST datasets from [here](https://www.kaggle.com/datasets/hojjatk/mnist-dataset). (I already downloaded at datasets folder.)
 
 
 ## Training and Evaluation
